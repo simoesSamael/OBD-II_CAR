@@ -118,47 +118,5 @@ e into the active development.
 
 
 
-#### Credits
-<details>
-  <summary>Donators</summary>
-&nbsp;
-  
-| Date | Supporter | Donation  |
-|------|-----------|----------:|
-| 2018/02 | John Zimmerer | $10 |
-| 2018/12 | Martin Bourdoiseau | €20 |
-| 2019/06 | Jeffrey O'Connell | $10 |
-| 2019/08 | Christoph Schmid | €10 |
-| 2020/01 | Glenn Fowler | $5 |
-| 2020/02 | Klemen Skerbiš | €5 |
-| 2020/06 | Jairus Martin | $10 |
-| 2020/06 | rusefi llc | €25 |
-| 2020/07 | Klemen Skerbiš | €5 |
-| 2020/10 | Frank White | $8 |
-| 2021/03 | Raphael Högger | CHF60 |
-| 2021/04 | Klemen Skerbiš | €5 |
-| 2021/06 | Christoph Goetz | €5 |
-| 2021/11 | Raphael Högger | CHF60 |
-</details>
 
-<details>
-  <summary>Contributors</summary>
-  
-#### Graphic design
 
-* Very special Thanks to [anaufalm](https://github.com/anaufalm) for the [beautiful graphic design artwork and logos](https://steemit.com/utopian-io/@naufal/my-design-logo-for-androbd-valid-commit-and-added-to-v2-0-3).
-
-#### Start page
-
-* Thank you very much [sampoder](https://github.com/sampoder/) for a beautiful [AndrOBD start page](https://fr3ts0n.github.io/AndrOBD/).
-
-#### Internet promotion
-
-* Big hands to [aha999](https://github.com/aha999/) for a fancier Readme, community help and many ideas to improve AndrOBD.
-
-#### Hosting translations
-
-* Special thanks to [Michal Čihař](https://github.com/nijel) for hosting translations on [weblate.org](http://weblate.org/).
-</details>
-
-*Thanks to the open source community and any supporters who pick this project up, AndrOBD will be able to get more development, new features, and hopefully even more than that.*
