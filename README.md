@@ -5,7 +5,7 @@ It is open source and completely free. The application also has a built in Demo 
 
 ![Android CI](https://github.com/fr3ts0n/AndrOBD/workflows/Android%20CI/badge.svg)
 [![GitHub issues](https://img.shields.io/github/issues/fr3ts0n/AndrOBD?color=red)](https://github.com/fr3ts0n/AndrOBD/issues)
-[![Liberapay receiving](https://img.shields.io/liberapay/receives/AndrOBD?label=Liberapay)](https://liberapay.com/AndrOBD/donate/)
+
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/AndrOBD?color=orange)](https://www.reddit.com/r/AndrOBD/)
 [![Telegram](https://img.shields.io/badge/chat-on%20Telegram-blue)](https://t.me/joinchat/G60ltQv5CCEQ94BZ5yWQbg)
 [![GitHub license](https://img.shields.io/github/license/fr3ts0n/AndrOBD?color=lightgrey)](https://github.com/fr3ts0n/AndrOBD/blob/master/LICENSE)
@@ -114,34 +114,9 @@ It is open source and completely free. The application also has a built in Demo 
 #### ⚠️ Design request ⚠️
 * AndrOBD is looking for help with designing and implementing of a new modern GUI ([#104](https://github.com/fr3ts0n/AndrOBD/issues/104), [#126](https://github.com/fr3ts0n/AndrOBD/issues/126)), *Java & Kotlin [can be used](https://github.com/fr3ts0n/AndrOBD/wiki/Frequently-asked-questions#what-programming-languages-can-be-used-for-contributions)*. Contributers will be credited/linked in the Readme.
 
-## Support by donating
+e into the active development.
 
-Buy us a coffee or donate in the amount that you see valuable for the project, as it will enable us to put more free time into the active development.
 
-<table>
-  <tr>
-    <th colspan="3">Thank you for donating</th>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.paypal.me/fr3ts0n"><img src="/manual/paypal-donate-icon.png" height=25/></a></td>
-    <td align="center">PayPal</td>
-    <td><a href="https://www.paypal.me/fr3ts0n">https://www.paypal.me/fr3ts0n</a></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://liberapay.com/AndrOBD/donate/"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
-    </td>
-    <td align="center">Liberapay</td>
-    <td>
-      <a href="https://liberapay.com/AndrOBD/donate/">https://liberapay.com/AndrOBD/donate</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><a href="bitcoin:19UApzsc5eDJ5VNDNYCA1bpszPnkcpWeFP"><img src="/manual/bitcoin_qr_code.png" alt="bitcoin:19UApzsc5eDJ5VNDNYCA1bpszPnkcpWeFP" width="128px" height="128px"></a></td>
-    <td align="center">Bitcoin</a></td>
-    <td><a href="bitcoin:19UApzsc5eDJ5VNDNYCA1bpszPnkcpWeFP">19UApzsc5eDJ5VNDNYCA1bpszPnkcpWeFP</a></td>
-  </tr>
-</table>
 
 #### Credits
 <details>
